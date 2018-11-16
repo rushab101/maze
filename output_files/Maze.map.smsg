@@ -1,0 +1,5 @@
+Warning (10268): Verilog HDL information at Maze.v(323): always construct contains both blocking and non-blocking assignments File: C:/Users/siamr/OneDrive/Desktop/Maze Game/Maze.v Line: 323
+Info (10281): Verilog HDL Declaration information at Maze.v(109): object "up" differs only in case from object "UP" in the same scope File: C:/Users/siamr/OneDrive/Desktop/Maze Game/Maze.v Line: 109
+Info (10281): Verilog HDL Declaration information at Maze.v(109): object "down" differs only in case from object "DOWN" in the same scope File: C:/Users/siamr/OneDrive/Desktop/Maze Game/Maze.v Line: 109
+Info (10281): Verilog HDL Declaration information at Maze.v(109): object "left" differs only in case from object "LEFT" in the same scope File: C:/Users/siamr/OneDrive/Desktop/Maze Game/Maze.v Line: 109
+Info (10281): Verilog HDL Declaration information at Maze.v(109): object "right" differs only in case from object "RIGHT" in the same scope File: C:/Users/siamr/OneDrive/Desktop/Maze Game/Maze.v Line: 109
